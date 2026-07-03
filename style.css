@@ -99,6 +99,10 @@ section{
     }
 }
 
+html {
+    scroll-padding-top: 170px;
+}
+
 
 
 
