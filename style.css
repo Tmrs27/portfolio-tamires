@@ -18,13 +18,12 @@ header {
 
 /* Menu */
 nav ul {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 15px;
     list-style: none;
     padding: 0;
-}
-
-nav li {
-    display: inline;
-    margin: 0 15px;
 }
 
 nav a {
